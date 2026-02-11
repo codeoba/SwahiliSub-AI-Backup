@@ -1,0 +1,4 @@
+openai-whisper
+deep-translator
+argostranslate
+ffmpeg-python
